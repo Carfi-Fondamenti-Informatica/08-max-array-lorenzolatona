@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(){
+int main() {
   int n=0;
   cin>>n;
   float a[n];
